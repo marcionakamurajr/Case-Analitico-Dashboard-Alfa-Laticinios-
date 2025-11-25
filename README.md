@@ -75,6 +75,3 @@ Case-Analitico-Dashboard-Alfa-Laticinios/
 O case demonstra experiência completa em ETL + Modelagem + DAX + Visualização.
 O dashboard atende aos requisitos de um time comercial/trade.
 A estrutura do repositório mostra domínio de boas práticas profissionais.
-gmail.com
-
-🔗 linkedin.com/in/SEU-LINK
